@@ -1,0 +1,6 @@
+{
+  "name": "SMS Forwarder",
+  "description": "Forwards incoming SMS messages to webhooks or email based on custom matching rules and background monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
